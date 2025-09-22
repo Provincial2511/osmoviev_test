@@ -1,5 +1,0 @@
-pandas==2.2.2
-matplotlib version==3.10.0
-PIL version==11.3.0
-torch version==2.8.0
-torchvision version==0.23.0
