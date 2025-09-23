@@ -15,7 +15,7 @@
 
 ```bash
 git clone https://github.com/Provincial2511/osmoviev_test
-cd osmoview_test
+cd georges_classificator
 ```
 
 Установите зависимости
